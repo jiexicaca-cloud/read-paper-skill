@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read Paper"
+  short_description: "Deep structured academic paper reading notes"
+  default_prompt: "Read this paper and produce a structured, critical academic reading note."
